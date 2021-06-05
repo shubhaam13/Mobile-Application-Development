@@ -33,7 +33,7 @@
   >Develop an Android application usingcontrols like Button, TextView, EditText for designing a
   >calculatorhaving basic functionality like Addition, Subtraction, Multiplication,andDivision.
 
-3. [LoginSignUp](https://github.com/shubhaam13/Mobile-Application-Development-lab-Program-VTU-6th-sem/tree/main/LoginSignup)
+3. [LoginSignUp](https://github.com/shubhaam13/Mobile-Application-Development-lab-Program-VTU-6th-sem/tree/main/LoginSignUp)
   >Create a SIGN Up activity with Username and Password. Validation of password should happen
   >based on the following rules:
   >Password should contain uppercase and lowercase letters.
