@@ -1,7 +1,7 @@
 # Mobile Application Development lab Program VTU 6th sem
  ![Logo](https://svcengg.edu.in/wp-content/uploads/2020/12/SVCE1-1024x279.jpg)
 # MOBILE APPLICATION DEVELOPMENT
-### Created By SHUBHAM KUMAR in collaboration with Asst.Professor Mrs. Rakshitha K S.
+### Created By Shubham Kumar in collaboration with Assistant Professor Mrs.Rakshitha K S
 #
 ##### (Effective from the academic year 2018 -2019)
 ##### SEMESTER – VI
