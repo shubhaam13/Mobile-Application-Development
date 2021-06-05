@@ -20,5 +20,15 @@
 - [Android Developers Youtube Channel](https://www.youtube.com/user/androiddevelopers)
 - Material.io  [[Basics]](https://material.io/design/introduction) [[Components for Android]](https://material.io/components?platform=android)
 
-### List of Applications
+### List of Programs -
 
+1. [Visiting Card](https://github.com/shubhaam13/Mobile-Application-Development-lab-Program-VTU-6th-sem/tree/main/VistingCard)
+  >Create an application to design aVisiting Card. The Visiting card should havea companylogoatthe
+  >top right corner. The company name should be displayed in Capital letters, aligned to the center.
+  >Information like the name of the employee, job title, phone number, address, email, fax and the
+  >website address isto be displayed. Insert a horizontal line between the job title and the phone
+  >number. 
+
+2.  [Calculator](https://github.com/shubhaam13/Mobile-Application-Development-lab-Program-VTU-6th-sem/tree/main/Calculator)
+  >Develop an Android application usingcontrols like Button, TextView, EditText for designing a
+  >calculatorhaving basic functionality like Addition, Subtraction, Multiplication,andDivision.
