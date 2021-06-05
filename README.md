@@ -1,7 +1,7 @@
 # Mobile Application Development lab Program VTU 6th sem
  ![Logo](https://svcengg.edu.in/wp-content/uploads/2020/12/SVCE1-1024x279.jpg)
 # MOBILE APPLICATION DEVELOPMENT
-### Share this repo using 
+### Created By SHUBHAM KUMAR 
 #
 ##### (Effective from the academic year 2018 -2019)
 ##### SEMESTER – VI
