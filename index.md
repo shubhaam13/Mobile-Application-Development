@@ -6,11 +6,11 @@
 
 
 
-####### (Effective from the academic year 2018 -2019)
+ (Effective from the academic year 2018 -2019)
 
-####### SEMESTER – VI
+SEMESTER – VI
 
-####### Course Code : 18CSMP68
+ Course Code : 18CSMP68
 
 ##### Laboratory Objectives:This laboratory (18CSMP68) will enable students to 
 
