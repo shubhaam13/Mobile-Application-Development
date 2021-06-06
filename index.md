@@ -20,14 +20,13 @@
 
 - Inspect different methods of sharing data using services. 
 
-### Learning Resources
+### Learning Resources -
 
-- [Official Kotlin Reference](https://kotlinlang.org/docs/kotlin-pdf.html)
-
-- [Official Android Documentation](https://developer.android.com/docs)
-
-- [Android Developers Youtube Channel](https://www.youtube.com/user/androiddevelopers)
-
+- [Official Kotlin Reference](https://kotlinlang.org/docs/kotlin-pdf.html) 
+- To download latest Android Studio, click [here](https://developer.android.com/studio).
+- Click [here](https://youtu.be/0zx_eFyHRU0?t=371) to watch installation video.
+- To enroll in Android Developer Fundamentals Course, click [here](https://developer.android.com/courses/fundamentals-training/overview-v2).
+- For Android documentation, click [here](https://developer.android.com/guide).
 - Material.io  [[Basics]](https://material.io/design/introduction) [[Components for Android]](https://material.io/components?platform=android)
 
 ### List of Programs -
@@ -46,7 +45,7 @@
 
 >Develop an Android application using controls like Button, TextView, EditText for designing a calculator having basic functionality like Addition, Subtraction, Multiplication,and Division.
   - [Click Here To View Code](https://github.com/shubhaam13/Mobile-Application-Development-lab-Program-VTU-6th-sem/tree/main/Calculator)
-  - [Click Here To Download Apk](Updated Soon!)
+  - [Click Here To Download Apk] (Updated Soon!)
 
 3.[LoginSignUp](https://github.com/shubhaam13/Mobile-Application-Development-lab-Program-VTU-6th-sem/tree/main/LoginSignUp)
 
@@ -54,7 +53,7 @@
 based on the following rules:
 Password should contain uppercase and lowercase letters.Password should contain letters and numbers.Password should contain special characters.Minimum length of the password (the default value is 8).On successful SIGN UP proceed to the next Login activity. Here the user should SIGN IN using the Username and Password created during signup activity. If the Username and Password are matched then navigate to the next activity whichdisplays a message saying “Successful Login” or else display a toast message saying “Login Failed”.The user is given only two attempts and after that display a toast message saying “Failed Login Attempts” and disable the SIGN IN button.Use Bundle to transfer information from one activity to another.
   - [Click Here To View Code](https://github.com/shubhaam13/Mobile-Application-Development-lab-Program-VTU-6th-sem/tree/main/LoginSignUp)
-  - [Click Here To Download Apk](Updated Soon!)
+  - [Click Here To Download Apk] (Updated Soon!)
 
 
 
