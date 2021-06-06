@@ -12,7 +12,7 @@ SEMESTER – VI
 
  Course Code : 18CSMP68
 
-##### Laboratory Objectives:This laboratory (18CSMP68) will enable students to 
+### Laboratory Objectives:This laboratory (18CSMP68) will enable students to 
 
 - Learn and acquire the art of Android Programming.
 
@@ -40,13 +40,13 @@ SEMESTER – VI
 
   >Create an application to design aVisiting Card. The Visiting card should havea companylogoatthe
 
-  >top right corner. The company name should be displayed in Capital letters, aligned to the center.
+  top right corner. The company name should be displayed in Capital letters, aligned to the center.
 
-  >Information like the name of the employee, job title, phone number, address, email, fax and the
+  Information like the name of the employee, job title, phone number, address, email, fax and the
 
-  >website address isto be displayed. Insert a horizontal line between the job title and the phone
+  website address isto be displayed. Insert a horizontal line between the job title and the phone
 
-  >number.
+number.>
 
   > [Click Here To Download Apk](https://drive.google.com/file/d/1Dyec57br94BzRdZ5i24OEcfSIfNFLmnd/view?usp=drivesdk)
 
