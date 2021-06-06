@@ -2,15 +2,9 @@
 
 # MOBILE APPLICATION DEVELOPMENT
 
-
-
-
-
  (Effective from the academic year 2018 -2019)
-
-SEMESTER – VI
-
- Course Code : 18CSMP68
+  SEMESTER – VI
+  Course Code : 18CSMP68
 
 ### Laboratory Objectives:This laboratory (18CSMP68) will enable students to 
 
@@ -38,49 +32,25 @@ SEMESTER – VI
 
 1. [Visiting Card](https://github.com/shubhaam13/Mobile-Application-Development-lab-Program-VTU-6th-sem/tree/main/VistingCard)
 
-  >Create an application to design aVisiting Card. The Visiting card should havea companylogoatthe
-
+  >Create an application to design a Visiting Card. The Visiting card should havea companylogoatthe
   top right corner. The company name should be displayed in Capital letters, aligned to the center.
-
   Information like the name of the employee, job title, phone number, address, email, fax and the
+  website address isto be displayed. Insert a horizontal line between the job title and the phone number.>
 
-  website address isto be displayed. Insert a horizontal line between the job title and the phone
-
-number.>
-
+  > [Click Here To View Code](https://github.com/shubhaam13/Mobile-Application-Development-lab-Program-VTU-6th-sem/tree/main/VistingCard)
   > [Click Here To Download Apk](https://drive.google.com/file/d/1Dyec57br94BzRdZ5i24OEcfSIfNFLmnd/view?usp=drivesdk)
-
+  
 2.  [Calculator](https://github.com/shubhaam13/Mobile-Application-Development-lab-Program-VTU-6th-sem/tree/main/Calculator)
 
-  >Develop an Android application usingcontrols like Button, TextView, EditText for designing a
-
-  >calculatorhaving basic functionality like Addition, Subtraction, Multiplication,andDivision.
+>Develop an Android application using controls like Button, TextView, EditText for designing a calculator having basic functionality like Addition, Subtraction, Multiplication,and Division.
+     > [Click Here To View Code](https://github.com/shubhaam13/Mobile-Application-Development-lab-Program-VTU-6th-sem/tree/main/Calculator)
+     > [Click Here To Download Apk]
 
 3. [LoginSignUp](https://github.com/shubhaam13/Mobile-Application-Development-lab-Program-VTU-6th-sem/tree/main/LoginSignUp)
 
-  >Create a SIGN Up activity with Username and Password. Validation of password should happen
-
-  >based on the following rules:
-
-  >Password should contain uppercase and lowercase letters.
-
-  >Password should contain letters and numbers.
-
-  >Password should contain special characters.
-
-  >Minimum length of the password (the default value is 8).
-
-  >On successful SIGN UP proceed to the next Login activity. Here the user should SIGN IN using
-
-  >the Username and Password created during signup activity. If the Username and Password are
-
-  >matched then navigate to the next activity whichdisplays a message saying “Successful Login” or
-
-  >else display a toast message saying “Login Failed”.The user is given only two attempts and after
-
-  >thatdisplay a toast message saying “Failed Login Attempts” and disable the SIGN IN button. Use
-
-  >Bundle to transfer information from one activity to another.
+>Create a SIGN Up activity with Username and Password. Validation of password should happen
+based on the following rules:
+Password should contain uppercase and lowercase letters.Password should contain letters and numbers.Password should contain special characters.Minimum length of the password (the default value is 8).On successful SIGN UP proceed to the next Login activity. Here the user should SIGN IN using the Username and Password created during signup activity. If the Username and Password are matched then navigate to the next activity whichdisplays a message saying “Successful Login” or else display a toast message saying “Login Failed”.The user is given only two attempts and after that display a toast message saying “Failed Login Attempts” and disable the SIGN IN button.Use Bundle to transfer information from one activity to another.
 
 
 
@@ -88,37 +58,6 @@ number.>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shubhaam13/Mobile-Application-Development-lab-Program-VTU-6th-sem/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
