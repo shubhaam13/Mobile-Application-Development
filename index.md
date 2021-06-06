@@ -2,17 +2,17 @@
 
 # MOBILE APPLICATION DEVELOPMENT
 
-### Created By Shubham Kumar in collaboration with Assistant Professor Mrs.Rakshitha K S
 
-### Contact If any Queries :email: imsky004@gmail.com  or 🔗 http://shubhaam13.github.io/
 
-##### (Effective from the academic year 2018 -2019)
 
-##### SEMESTER – VI
 
-##### Course Code : 18CSMP68
+####### (Effective from the academic year 2018 -2019)
 
-### Laboratory Objectives:This laboratory (18CSMP68) will enable students to 
+####### SEMESTER – VI
+
+####### Course Code : 18CSMP68
+
+##### Laboratory Objectives:This laboratory (18CSMP68) will enable students to 
 
 - Learn and acquire the art of Android Programming.
 
