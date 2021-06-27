@@ -8,7 +8,7 @@
   
   Course Code : 18CSMP68
   
-  [LAB MANUAL](https://drive.google.com/file/d/1YefqvdarNqxX2sXMGiXPqqcGdvSeIh26/view?usp=sharing)
+  To download LAB MANUAL [Click Here](https://drive.google.com/file/d/1YefqvdarNqxX2sXMGiXPqqcGdvSeIh26/view?usp=sharing)
 
 ### Laboratory Objectives:This laboratory (18CSMP68) will enable students to 
 
