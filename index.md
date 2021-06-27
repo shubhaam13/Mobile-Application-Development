@@ -76,7 +76,7 @@ Here the user should SIGN IN using the Username and Password created during sign
   >Write a program to create an activity with two buttons START and STOP. On pressing of the START button, the activity must start the counter by displaying the numbers from One     and the counter must keep on counting until the STOP button is pressed. Display the counter value in a TextViewcontrol.
   
   - [Click Here To View Code](https://github.com/shubhaam13/Mobile-Application-Development-lab-Program-VTU-6th-sem/tree/main/CounterActivity)
-  - [Click Here To Download Apk]()
+  - [Click Here To Download Apk](https://github.com/shubhaam13/Mobile-Application-Development/releases/download/v5.0.0/CounterActivity.App.apk)
 
 
 ### Support or Contact
