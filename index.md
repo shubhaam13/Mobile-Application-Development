@@ -51,7 +51,7 @@
 3.[LoginSignUp](https://github.com/shubhaam13/Mobile-Application-Development-lab-Program-VTU-6th-sem/tree/main/LoginSignUp)
 
 >Create a SIGN Up activity with Username and Password. Validation of password should happen
-based on the following rules:
+based on the following rules:<br>
 Password should contain uppercase and lowercase letters.<br>
 Password should contain letters and numbers.<br>
 Password should contain special characters.<br>
