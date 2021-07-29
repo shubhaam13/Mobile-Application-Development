@@ -78,7 +78,7 @@ Here the user should SIGN IN using the Username and Password created during sign
   - [Click Here To View Code](https://github.com/shubhaam13/Mobile-Application-Development-lab-Program-VTU-6th-sem/tree/main/CounterActivity)
   - [Click Here To Download Apk](https://github.com/shubhaam13/Mobile-Application-Development/releases/download/v5.0.0/CounterActivity.App.apk)
 
-6.[CounterActivity](https://github.com/shubhaam13/Mobile-Application-Development-lab-Program-VTU-6th-sem/tree/main/JsonParser)
+6.[JsonParser](https://github.com/shubhaam13/Mobile-Application-Development-lab-Program-VTU-6th-sem/tree/main/JsonParser)
 
  > Create two files of XML and JSON type with values for City_Name,
 Latitude, Longitude, Temperature, and Humidity. Develop an application to create
@@ -86,27 +86,27 @@ an activity with two buttons to parse the XML and JSON files which when clicked
 should display the data in their respective layouts side by side.
 
 - [Click Here To View Code](https://github.com/shubhaam13/Mobile-Application-Development-lab-Program-VTU-6th-sem/tree/main/JsonParser)
-  - [Click Here To Download Apk](https://github.com/shubhaam13/Mobile-Application-Development/releases/download/v5.0.0/CounterActivity.App.apk)
+- [Click Here To Download Apk](https://github.com/shubhaam13/Mobile-Application-Development/releases/download/v5.0.0/CounterActivity.App.apk)
   
   
-7.[CounterActivity](https://github.com/shubhaam13/Mobile-Application-Development-lab-Program-VTU-6th-sem/tree/main/TextToSpeech)
+7.[TextToSpeech](https://github.com/shubhaam13/Mobile-Application-Development-lab-Program-VTU-6th-sem/tree/main/TextToSpeech)
 
  >Develop a simple application with one EditText so that the user can
 write some text in it. Create a button called “Convert Text to Speech” that converts
 the user input text into voice.
 
 - [Click Here To View Code](https://github.com/shubhaam13/Mobile-Application-Development-lab-Program-VTU-6th-sem/tree/main/TextToSpeech)
-  - [Click Here To Download Apk](https://github.com/shubhaam13/Mobile-Application-Development/releases/download/v5.0.0/CounterActivity.App.apk)
+- [Click Here To Download Apk](https://github.com/shubhaam13/Mobile-Application-Development/releases/download/v5.0.0/CounterActivity.App.apk)
 
 
-8.[CounterActivity](https://github.com/shubhaam13/Mobile-Application-Development-lab-Program-VTU-6th-sem/tree/main/CallActivity)
+8.[CallActivity](https://github.com/shubhaam13/Mobile-Application-Development-lab-Program-VTU-6th-sem/tree/main/CallActivity)
 
  >Create an activity like a phone dialer with CALL and SAVE buttons. On
 pressing the CALL button, it must call the phone number and on pressing the SAVE
 button it must save the number to the phone contacts
 
 - [Click Here To View Code](https://github.com/shubhaam13/Mobile-Application-Development-lab-Program-VTU-6th-sem/tree/main/CallActivity)
-  - [Click Here To Download Apk](https://github.com/shubhaam13/Mobile-Application-Development/releases/download/v5.0.0/CounterActivity.App.apk)
+- [Click Here To Download Apk](https://github.com/shubhaam13/Mobile-Application-Development/releases/download/v5.0.0/CounterActivity.App.apk)
 
 
 
