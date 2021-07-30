@@ -10,7 +10,7 @@
   
   To download LAB MANUAL [Click Here](https://drive.google.com/file/d/1YefqvdarNqxX2sXMGiXPqqcGdvSeIh26/view?usp=sharing)
 
-### Laboratory Objectives:This laboratory (18CSMP68) will enable students to 
+## Laboratory Objectives:This laboratory (18CSMP68) will enable students to 
 
 - Learn and acquire the art of Android Programming.
 
@@ -22,7 +22,7 @@
 
 - Inspect different methods of sharing data using services. 
 
-### Learning Resources -
+## Learning Resources -
 
 - [Official Kotlin Reference](https://kotlinlang.org/docs/kotlin-pdf.html) 
 - To download latest Android Studio, click [here](https://developer.android.com/studio).
@@ -31,7 +31,7 @@
 - For Android documentation, click [here](https://developer.android.com/guide).
 - Material.io  [[Basics]](https://material.io/design/introduction) [[Components for Android]](https://material.io/components?platform=android)
 
-### List of Programs -
+## List of Programs -
 
 1.[Visiting Card](https://github.com/shubhaam13/Mobile-Application-Development-lab-Program-VTU-6th-sem/tree/main/VistingCard)
 
