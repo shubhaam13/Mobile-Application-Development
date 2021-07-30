@@ -113,5 +113,6 @@ button it must save the number to the phone contacts
 ### Support or Contact
 
 Having trouble with Pages? [contact support](https://shubhaam13.github.io/) and we’ll help you sort it out.
-And Please Don't Forget to Fork/star the Respo. Thank You !
+And Please Don't Forget to Fork/star the repository.
+Thank You! keep up the good work.
 
