@@ -86,7 +86,7 @@ an activity with two buttons to parse the XML and JSON files which when clicked
 should display the data in their respective layouts side by side.
 
 - [Click Here To View Code](https://github.com/shubhaam13/Mobile-Application-Development-lab-Program-VTU-6th-sem/tree/main/JsonParser)
-- [Click Here To Download Apk](https://github.com/shubhaam13/Mobile-Application-Development/releases/download/v5.0.0/CounterActivity.App.apk)
+- [Click Here To Download Apk](https://github.com/shubhaam13/Mobile-Application-Development/releases/download/v6.0.0/ParseJSON.apk)
   
   
 7.[TextToSpeech](https://github.com/shubhaam13/Mobile-Application-Development-lab-Program-VTU-6th-sem/tree/main/TextToSpeech)
@@ -96,7 +96,7 @@ write some text in it. Create a button called “Convert Text to Speech” that 
 the user input text into voice.
 
 - [Click Here To View Code](https://github.com/shubhaam13/Mobile-Application-Development-lab-Program-VTU-6th-sem/tree/main/TextToSpeech)
-- [Click Here To Download Apk](https://github.com/shubhaam13/Mobile-Application-Development/releases/download/v5.0.0/CounterActivity.App.apk)
+- [Click Here To Download Apk](https://github.com/shubhaam13/Mobile-Application-Development/releases/download/v7.0.0/test-to-speech.apk)
 
 
 8.[CallActivity](https://github.com/shubhaam13/Mobile-Application-Development-lab-Program-VTU-6th-sem/tree/main/CallActivity)
@@ -106,11 +106,12 @@ pressing the CALL button, it must call the phone number and on pressing the SAVE
 button it must save the number to the phone contacts
 
 - [Click Here To View Code](https://github.com/shubhaam13/Mobile-Application-Development-lab-Program-VTU-6th-sem/tree/main/CallActivity)
-- [Click Here To Download Apk](https://github.com/shubhaam13/Mobile-Application-Development/releases/download/v5.0.0/CounterActivity.App.apk)
+- [Click Here To Download Apk](https://github.com/shubhaam13/Mobile-Application-Development/releases/download/v8.0.0/call-activity.apk)
 
 
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? [contact support](https://shubhaam13.github.io/) and we’ll help you sort it out.
+And Please Don't Forget to Fork/star the Respo. Thank You !
 
