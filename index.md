@@ -10,7 +10,7 @@
   
   To download LAB MANUAL [Click Here](https://drive.google.com/file/d/1YefqvdarNqxX2sXMGiXPqqcGdvSeIh26/view?usp=sharing)
 
-## Laboratory Objectives:This laboratory (18CSMP68) will enable students to 
+## Laboratory Objectives: This laboratory (18CSMP68) will enable students to - 
 
 - Learn and acquire the art of Android Programming.
 
